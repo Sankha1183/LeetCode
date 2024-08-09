@@ -5,12 +5,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sankha1183/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0870-magic-squares-in-grid](https://github.com/Sankha1183/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sankha1183/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0870-magic-squares-in-grid](https://github.com/Sankha1183/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sankha1183/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/Sankha1183/LeetCode/tree/master/0870-magic-squares-in-grid) |
+## Math
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/Sankha1183/LeetCode/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
