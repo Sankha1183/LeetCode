@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Sankha1183/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sankha1183/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sankha1183/LeetCode/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sankha1183/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/Sankha1183/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Sankha1183/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Matrix
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sankha1183/LeetCode/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sankha1183/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/Sankha1183/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Sankha1183/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Math
