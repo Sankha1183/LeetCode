@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sankha1183/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sankha1183/LeetCode/tree/master/0231-power-of-two) |
 | [0870-magic-squares-in-grid](https://github.com/Sankha1183/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [2032-largest-odd-number-in-string](https://github.com/Sankha1183/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,9 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sankha1183/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sankha1183/LeetCode/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sankha1183/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Sankha1183/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sankha1183/LeetCode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Sankha1183/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Sankha1183/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
