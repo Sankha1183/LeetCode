@@ -131,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sankha1183/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Sankha1183/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sankha1183/LeetCode/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sankha1183/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sankha1183/LeetCode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Sankha1183/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
