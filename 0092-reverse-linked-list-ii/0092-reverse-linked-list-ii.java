@@ -13,22 +13,22 @@ class Solution {
         if(head == null){
             return null;
         }
-        ListNode temp=new ListNode(0);
-        temp.next=head;
-        ListNode prev=temp;
+        ListNode dummy=new ListNode(0);
+        dummy.next=head;
+        ListNode prev=dummy;
         for(int i=1;i<left;i++){
             prev=prev.next;
         }
         ListNode curr=prev.next;
-        ListNode next=null;
-        // ListNode tail=curr;
+        
         for(int i=0;i<right-left;i++){
-            next=curr.next;
-            curr.next=next.next;
-            next.next=prev.next;
-            prev.next=next;
+            ListNode temp=prev.next;
+            temp=prev.next;
+            prev.next=curr.next;
+            curr.next=curr.next.next;
+            prev.next.next=temp;;
 
         }
-        return temp.next;
+        return dummy.next;
     }
 }
