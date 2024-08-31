@@ -2,8 +2,7 @@ class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         int n=nums.length;
         int low=1;
-        Arrays.sort(nums);
-        int high=nums[n-1];
+        int high=getMax(nums);
         int ans=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
@@ -24,5 +23,14 @@ class Solution {
             sum += Math.ceil((double) num / divisor);
         }
         return sum;
+    }
+    int getMax(int[] nums){
+            int max=nums[0];
+        for(int num:nums){
+            if(num>max){
+                max=num;
+            }
+        }
+        return max;
     }
 }
