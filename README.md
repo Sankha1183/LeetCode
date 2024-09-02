@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sankha1183/LeetCode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Sankha1183/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Sankha1183/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Sankha1183/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Sankha1183/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sankha1183/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sankha1183/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sankha1183/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Sankha1183/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sankha1183/LeetCode/tree/master/0231-power-of-two) |
 | [0870-magic-squares-in-grid](https://github.com/Sankha1183/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2032-largest-odd-number-in-string](https://github.com/Sankha1183/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sankha1183/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sankha1183/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sankha1183/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Sankha1183/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sankha1183/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sankha1183/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sankha1183/LeetCode/tree/master/0349-intersection-of-two-arrays) |
