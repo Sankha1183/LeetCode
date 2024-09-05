@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sankha1183/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sankha1183/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sankha1183/LeetCode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Sankha1183/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sankha1183/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sankha1183/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sankha1183/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sankha1183/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Sankha1183/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sankha1183/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Sankha1183/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sankha1183/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sankha1183/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sankha1183/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Sankha1183/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sankha1183/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
