@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sankha1183/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sankha1183/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sankha1183/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/Sankha1183/LeetCode/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sankha1183/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Sankha1183/LeetCode/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
