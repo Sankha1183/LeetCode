@@ -22,7 +22,7 @@ class Solution {
             turtle=turtle.next;
         }
         if(prev!=null){
-        prev.next=turtle.next;
+        prev.next=prev.next.next;
         }
         return head;
     }
