@@ -32,8 +32,8 @@ class Solution {
 
         }
         if(carry!=0){
-            ListNode new1=new ListNode(carry);
-            curr.next=new1;
+            ListNode newNode=new ListNode(carry);
+            curr.next=newNode;
         }
         return dummy.next;
     }
