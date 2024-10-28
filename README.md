@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sankha1183/LeetCode/tree/master/0268-missing-number) |
 | [0870-magic-squares-in-grid](https://github.com/Sankha1183/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2032-largest-odd-number-in-string](https://github.com/Sankha1183/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Sankha1183/LeetCode/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sankha1183/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sankha1183/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Sankha1183/LeetCode/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/Sankha1183/LeetCode/tree/master/2050-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
