@@ -17,9 +17,11 @@ class Solution {
         StringBuilder res = new StringBuilder();
         for (int i = s.length(); i >= 1; i--) {
             for (char ch : l1[i]) {
-                for (int j = 0; j < i; j++) {
-                    res.append(ch);
-                }
+                // for (int j = 0; j < i; j++) {
+                //     res.append(ch);
+                // }
+                res.append(String.valueOf(ch).repeat(i));
+
 
             }
         }
