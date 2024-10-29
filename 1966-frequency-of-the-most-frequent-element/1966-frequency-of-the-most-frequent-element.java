@@ -30,7 +30,7 @@ class Solution {
             int mid = l + (r - l) / 2;
             int count = (t_idx - mid + 1);
             int windowSum = count * target;
-            int currSum = prefixSum[t_idx] - prefixSum[mid] + nums[mid]; // Handle prefix sum for mid > 0
+            int currSum = prefixSum[t_idx] - (mid > 0 ? prefixSum[mid - 1] : 0); // Handle prefix sum for mid > 0
             int ops = windowSum - currSum;
 
             if (ops > k) {
