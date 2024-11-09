@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/Sankha1183/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sankha1183/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Sankha1183/LeetCode/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/Sankha1183/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 ## Prefix Sum
 |  |
 | ------- |
