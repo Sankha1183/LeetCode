@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/Sankha1183/LeetCode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Sankha1183/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Sankha1183/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [2041-the-latest-login-in-2020](https://github.com/Sankha1183/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 ## Prefix Sum
 |  |
 | ------- |
